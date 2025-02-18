@@ -1,0 +1,6 @@
+# DISABLE DIRECTORY INDEXES
+Options -Indexes
+ RewriteEngine on
+ RewriteCond %{HTTPS} !=on
+ RewriteCond %{REQUEST_URI} !^/path/to/your_single_file.html$
+ RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [L,QSA,R=permanent]

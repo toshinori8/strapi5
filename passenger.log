@@ -1,0 +1,96 @@
+App 2524780 output:  Project information
+App 2524780 output: ┌────────────────────┬──────────────────────────────────────────────────┐
+App 2524780 output: │ Time               │ Wed Jan 15 2025 22:14:56 GMT+0100 (Central Euro… │
+App 2524780 output: │ Launched in        │ 1060 ms                                          │
+App 2524780 output: │ Environment        │ development                                      │
+App 2524780 output: │ Process PID        │ 2524780                                          │
+App 2524780 output: │ Version            │ 5.8.0 (node v20.17.0)                            │
+App 2524780 output: │ Edition            │ Community                                        │
+App 2524780 output: │ Database           │ mysql                                            │
+App 2524780 output: │ Database name      │ dm73147_stream404                                │
+App 2524780 output: └────────────────────┴──────────────────────────────────────────────────┘
+App 2524780 output:  Actions available
+App 2524780 output: Welcome back!
+App 2524780 output: To manage your project 🚀, go to the administration panel at:
+App 2524780 output: http://localhost:1337/admin
+App 2524780 output: To access the server ⚡️, go to:
+App 2524780 output: http://localhost:1337
+App 2524780 output: [2025-01-15 22:14:56.607] [32minfo[39m: Strapi started successfully
+App 2524780 output: [2025-01-15 22:14:56.631] [32mhttp[39m: GET / (14 ms) 302
+App 2524780 output: [2025-01-15 22:14:57.130] [32mhttp[39m: GET /admin (9 ms) 200
+App 2524780 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2524780 output: [2025-01-15 22:15:00.106] [32mhttp[39m: GET /admin (4 ms) 200
+App 2524780 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output:  Project information
+App 2526958 output: ┌────────────────────┬──────────────────────────────────────────────────┐
+App 2526958 output: │ Time               │ Wed Jan 15 2025 22:15:28 GMT+0100 (Central Euro… │
+App 2526958 output: │ Launched in        │ 1167 ms                                          │
+App 2526958 output: │ Environment        │ development                                      │
+App 2526958 output: │ Process PID        │ 2526958                                          │
+App 2526958 output: │ Version            │ 5.8.0 (node v20.17.0)                            │
+App 2526958 output: │ Edition            │ Community                                        │
+App 2526958 output: │ Database           │ mysql                                            │
+App 2526958 output: │ Database name      │ dm73147_stream404                                │
+App 2526958 output: └────────────────────┴──────────────────────────────────────────────────┘
+App 2526958 output:  Actions available
+App 2526958 output: Welcome back!
+App 2526958 output: To manage your project 🚀, go to the administration panel at:
+App 2526958 output: http://localhost:1337/admin
+App 2526958 output: To access the server ⚡️, go to:
+App 2526958 output: http://localhost:1337
+App 2526958 output: [2025-01-15 22:15:28.892] [32minfo[39m: Strapi started successfully
+App 2526958 output: [2025-01-15 22:15:28.922] [32mhttp[39m: GET /admin (20 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:12.035] [32mhttp[39m: GET /admin (9 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:13.247] [32mhttp[39m: GET /admin (5 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:14.002] [32mhttp[39m: GET /admin (4 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:14.534] [32mhttp[39m: GET /admin (4 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:15.035] [32mhttp[39m: GET /admin (4 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:15.524] [32mhttp[39m: GET /admin (3 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:15.974] [32mhttp[39m: GET /admin (3 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2526958 output: [2025-01-15 22:16:22.115] [32mhttp[39m: GET / (5 ms) 302
+App 2526958 output: [2025-01-15 22:16:22.181] [32mhttp[39m: GET /admin (7 ms) 200
+App 2526958 output:   Error: ENOENT: no such file or directory, open '/home/dm73147/nodevenv/domains/strapi.adamkarski.art/20/lib/node_modules/@strapi/admin/build/index.html'
+App 2531387 output:  Project information
+App 2531387 output: ┌────────────────────┬──────────────────────────────────────────────────┐
+App 2531387 output: │ Time               │ Wed Jan 15 2025 22:16:36 GMT+0100 (Central Euro… │
+App 2531387 output: │ Launched in        │ 1171 ms                                          │
+App 2531387 output: │ Environment        │ development                                      │
+App 2531387 output: │ Process PID        │ 2531387                                          │
+App 2531387 output: │ Version            │ 5.8.0 (node v20.17.0)                            │
+App 2531387 output: │ Edition            │ Community                                        │
+App 2531387 output: │ Database           │ mysql                                            │
+App 2531387 output: │ Database name      │ dm73147_stream404                                │
+App 2531387 output: └────────────────────┴──────────────────────────────────────────────────┘
+App 2531387 output:  Actions available
+App 2531387 output: Welcome back!
+App 2531387 output: To manage your project 🚀, go to the administration panel at:
+App 2531387 output: http://localhost:1337/admin
+App 2531387 output: To access the server ⚡️, go to:
+App 2531387 output: http://localhost:1337
+App 2531387 output: [2025-01-15 22:16:36.313] [32minfo[39m: Strapi started successfully
+App 2531387 output: [2025-01-15 22:16:36.355] [32mhttp[39m: GET /admin (21 ms) 200
+App 2531387 output: [2025-01-15 22:16:36.755] [32mhttp[39m: GET /admin/project-type (9 ms) 200
+App 2531387 output: [2025-01-15 22:16:36.929] [32mhttp[39m: GET /admin/init (9 ms) 200
+App 2531387 output: [2025-01-15 22:16:36.949] [32mhttp[39m: POST /admin/renew-token (17 ms) 200
+App 2531387 output: [2025-01-15 22:16:36.974] [32mhttp[39m: GET /admin/users/me (47 ms) 200
+App 2531387 output: [2025-01-15 22:16:36.995] [32mhttp[39m: GET /admin/users/me/permissions (43 ms) 200
+App 2531387 output: [2025-01-15 22:16:37.031] [32mhttp[39m: GET /admin/telemetry-properties (35 ms) 200
+App 2531387 output: [2025-01-15 22:16:37.032] [32mhttp[39m: GET /admin/information (43 ms) 200
+App 2531387 output: [2025-01-15 22:16:37.041] [32mhttp[39m: POST /admin/renew-token (3 ms) 200
+App 2531387 output: [2025-01-15 22:16:37.193] [32mhttp[39m: POST /admin/renew-token (2 ms) 200
+App 2531387 output: [2025-01-15 22:16:37.203] [32mhttp[39m: GET /admin/homepage/recent-documents?action=update (64 ms) 200
+App 2531387 output: [2025-01-15 22:16:37.204] [32mhttp[39m: GET /admin/homepage/recent-documents?action=publish (58 ms) 200
+App 2531387 output: [2025-01-15 22:16:39.538] [32mhttp[39m: GET /content-type-builder/components (20 ms) 200
+App 2531387 output: [2025-01-15 22:16:39.551] [32mhttp[39m: GET /content-type-builder/content-types (30 ms) 200
+App 2531387 output: [2025-01-15 22:16:39.558] [32mhttp[39m: GET /content-type-builder/reserved-names (33 ms) 200
+App 2531387 output: [2025-01-15 22:16:53.094] [32mhttp[39m: GET /admin/Layout-BWGCGBsV-CZbyS6Ei.js (3 ms) 200
+App 2531387 output: [2025-01-15 22:16:53.099] [32mhttp[39m: GET /admin/selectors-BZApelK9-DkF0JmWc.js (2 ms) 200
+App 2531387 output: [2025-01-15 22:16:53.208] [32mhttp[39m: GET /admin/ApplicationInfoPage-aVyIi07O-yuJinwfy.js (2 ms) 200
