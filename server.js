@@ -1,5 +1,6 @@
-
-process.env.NODE_ENV = 'development';
+// const strapi = require('@strapi/strapi');
+// strapi.createStrapi(/* {...} */).start();
 
 const strapi = require('@strapi/strapi');
-strapi.createStrapi(/* {...} */).start();
+const app = strapi.createStrapi({ distDir: './dist' });
+app.start();
