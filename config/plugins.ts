@@ -1,5 +1,5 @@
 export default ({ env }) => ({
-  'slugify': {
+  /* 'slugify': {
     enabled: true,
     config: {
       contentTypes: {
@@ -9,5 +9,5 @@ export default ({ env }) => ({
         },
       },
     },
-  },
+  }, */
 });
